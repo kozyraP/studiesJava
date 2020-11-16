@@ -1,7 +1,5 @@
 package second;
 
-import java.awt.*;
-
 public class Main {
     static void performAllCalculationAndPrint(Figure figure) {
         System.out.println("Perimeter: " + figure.calculatePerimeter());
